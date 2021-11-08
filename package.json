@@ -9,6 +9,7 @@
   "author": "Marc Medrano",
   "license": "ISC",
   "dependencies": {
+    "react": "^17.0.2",
     "sass": "^1.43.4"
   }
 }
