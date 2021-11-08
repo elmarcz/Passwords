@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: #212139;
+  color: #fff;
+
+  .container {
+    display: block;
+    height: 100%;
+    width: 100%;
+
+    .title {
+      font-family: "Bebas Neue", arial;
+      margin-block-start: 0.67em;
+      margin-block-end: 0.67em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
+      font-weight: bold;
+      text-align: center;
+      font-size: 47px;
+    }
+  }
+  a {
+    color: #fff;
+    text-decoration: underline;
+  }
+
+  a:hover {
+    text-decoration: none;
+  }
+}
